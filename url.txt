@@ -12,5 +12,8 @@ http://www.cnblogs.com/littleatp/p/4729781.html
 http://www.jb51.net/article/76309.htm
 
 https://my.oschina.net/zhangwenwen/blog/539393
+http://www.cnblogs.com/xiaowangba/archive/2012/08/23/6314508.html
 
 http://cache.baiducontent.com/c?m=9d78d513d99b12eb0bfa950e1a60d2716f5297134ac0a31f68d5e35fe3624c35347192b930556613d2b56b1704b83d2bfd814165430037b6ebdff94ecacf973c68c8793b2a5ac00305d26ab2d6167b9c75875a9eee42bbe9e732e4ff8f8cc854249b0f183b9da0d5075503cd1ba01765e1f29d4f415d13b8ee6035a3036029e87906e919&p=c349c715d9c041ab19be9b7c1141c4&newp=997fc316d9c10be71ebd9b7d0d1280231610db2151d7d2166b82c825d7331b001c3bbfb423241a06d9cf7b6d02ac4c59e9f130723d052ba3dda5c91d9fb4c57479c26f72&user=baidu&fm=sc&query=java%D7%D4%BD%A8%B4%FA%C0%ED%B7%FE%CE%F1%C6%F7&qid=90928a51000238ac&p1=5
+https://github.com/casparhuan/proxyServer
+https://github.com/1040003585/BiYeSheJi
