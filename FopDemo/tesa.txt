@@ -1,8 +1,0 @@
-http://www.webkaka.com/dns/
-http://nstool.netease.com/
-您好，尊敬的网易用户
-您的IP地址信息: 121.15.166.113 广东省深圳市电信
-您的DNS地址信息: 202.96.136.239 广东省深圳市电信
-您的DNS设置正确
-
-http://marketplace.eclipse.org/catalogs/api/p
